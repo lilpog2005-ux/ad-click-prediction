@@ -11,8 +11,8 @@ This project includes:
 - Performance comparison of classification algorithms
 
 
-## Dataset 
-dataset link: [Click-Through Rate].(https://www.kaggle.com/datasets/swekerr/click-through-rate-prediction).
+## Dataset
+dataset link: [Click-Through Rate](https://www.kaggle.com/datasets/swekerr/click-through-rate-prediction)
 
 ## Technologies Used
 - Python
