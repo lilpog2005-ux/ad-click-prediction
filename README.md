@@ -12,7 +12,7 @@ This project includes:
 
 
 ## Dataset 
-dataset link: [Click-Through Rate]https://www.kaggle.com/datasets/swekerr/click-through-rate-prediction 
+dataset link: [Click-Through Rate].(https://www.kaggle.com/datasets/swekerr/click-through-rate-prediction).
 
 ## Technologies Used
 - Python
